@@ -10,21 +10,21 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="{{ asset('img/banner1.jpg') }}" class="d-block w-100" alt="Banner 1">
+                <img src="https://i.pinimg.com/originals/49/2d/d4/492dd4c48438c7e79016f3819f35393d.jpg" class="d-block w-100" alt="Banner 1">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Banner Title 1</h5>
                     <p>Banner description for the first slide.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('img/banner2.jpg') }}" class="d-block w-100" alt="Banner 2">
+                <img src="https://static.vecteezy.com/system/resources/previews/001/761/188/original/online-education-and-e-learning-banner-with-computer-vector.jpg" class="d-block w-100" alt="Banner 2">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Banner Title 2</h5>
                     <p>Banner description for the second slide.</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="{{ asset('img/banner3.jpg') }}" class="d-block w-100" alt="Banner 3">
+                <img src="https://static.vecteezy.com/system/resources/previews/001/761/032/non_2x/online-education-and-e-learning-banner-with-laptop-vector.jpg" class="d-block w-100" alt="Banner 3">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Banner Title 3</h5>
                     <p>Banner description for the third slide.</p>
